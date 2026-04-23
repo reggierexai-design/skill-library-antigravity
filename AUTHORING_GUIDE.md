@@ -16,7 +16,7 @@ Each skill in this library uses:
 - Expanded workflow
 - Output contract
 - Failure modes to avoid
-- Handoff cue
+- Handoff cues
 - Example invocation
 - Quality bar
 

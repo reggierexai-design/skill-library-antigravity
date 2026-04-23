@@ -6,12 +6,12 @@ Profiles are curated skill lists. They are not native Antigravity configuration 
 
 1. `minimal_core`
 2. one specialist profile:
- - `builder_engineering`
- - `research_operator`
- - `docs_support`
- - `data_analytics`
- - `design_product`
- - `security_quality`
+   - `builder_engineering`
+   - `research_operator`
+   - `docs_support`
+   - `data_analytics`
+   - `design_product`
+   - `security_quality`
 3. add a second specialist profile only after the first proves useful
 
 ## Use `full_library` only when
